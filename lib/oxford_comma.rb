@@ -1,14 +1,6 @@
 def oxford_comma(array)
 
- 
- array.reverse_each do |x| 
- 
- 
- 
- end 
-
- 
- 
+if array.length = 2
 
  #array.join(" and ")
 end
