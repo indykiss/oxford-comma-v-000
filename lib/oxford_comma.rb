@@ -1,11 +1,11 @@
 def oxford_comma(array)
 
  
- array.reverse_each {|x| 
+ array.reverse_each do |x| 
  
  
  
- print x, " " }
+ print x, " " 
 
  
  
