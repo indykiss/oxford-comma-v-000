@@ -1,10 +1,14 @@
 def oxford_comma(array)
 
  
- array.reverse_each {|x| print x, " " }
+ array.reverse_each {|x| 
+ 
+ 
+ 
+ print x, " " }
 
  
  
 
- array.join(" and ")
+ #array.join(" and ")
 end
